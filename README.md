@@ -1,2 +1,2 @@
 # CSharp-Image-Filter
-!alt[]
+!alt[demo.png]
